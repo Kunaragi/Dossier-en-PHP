@@ -1,4 +1,4 @@
-html>
+<html>
   <header>
     <h1> Voici le deuxième exemple d'algorithme en PHP </h1>
   </header>
